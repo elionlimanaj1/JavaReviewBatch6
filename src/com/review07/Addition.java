@@ -2,7 +2,7 @@ package com.review07;
 
 public class Addition {
 	// Overloading methods
-	// They all have same signature, but different parameter
+	// They all have same name, but different parameter
 
 	public static void add(int a, int b) {
 		System.out.println("The sum is " + (a + b));

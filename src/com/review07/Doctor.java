@@ -18,7 +18,6 @@ public class Doctor {
 		this.name = name;
 		this.licenceId = licenceId;
 		this.salary = salary;
-		System.out.println("This is for Tugba");
 	}
 
 	public Doctor(String name, String licenceId, int salary, String address) {
