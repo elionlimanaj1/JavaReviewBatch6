@@ -75,7 +75,8 @@ public class SetIntro {
 		System.out.println(europe);
 
 		// Collection Framework
-		// Collections is class
+		// Collection Interface
+		// Collections is a class
 		String minimum = Collections.min(africa2);
 		System.out.println(minimum);
 
