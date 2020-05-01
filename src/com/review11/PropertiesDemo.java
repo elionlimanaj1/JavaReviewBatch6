@@ -44,8 +44,6 @@ public class PropertiesDemo {
 
 		// Or we can reassign
 		proper.setProperty("FirstName", "Omar");
-		
-		proper.setProperty("HI", "There");
 
 		System.out.println(proper);
 
